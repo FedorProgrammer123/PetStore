@@ -5,8 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PetStore"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="ООО «Товары для животных»" Height="650" Width="800" Icon="/Resources/icon.ico" MinWidth="800" MaxWidth="1200" MinHeight="450" MaxHeight="800" WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#76e383">
+            <TextBlock Text="ООО «Товары для животных»" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <Image Source="/Resources/logo.png" HorizontalAlignment="Left"></Image>
+        </Grid>
+        <Frame x:Name="MainFrame" Grid.Row="1"></Frame>
     </Grid>
 </Window>

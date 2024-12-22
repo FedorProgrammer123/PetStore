@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="976eb05de7ff4dd5802371913ab4129a" Name="Diagram1">
+        <EntityTypeShape EntityType="PetStoreModel.EmployeerRole" Width="1.5" PointX="5.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.Manufacturer" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.Order" Width="1.5" PointX="10.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.OrderComplete" Width="1.5" PointX="8" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.OrderStatus" Width="1.5" PointX="8" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.PickUpPoint" Width="1.5" PointX="8" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.Supplier" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.TovarCategory" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.Tovars" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.TovarTitle" Width="1.5" PointX="0.75" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetStoreModel.Users" Width="1.5" PointX="8" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="PetStoreModel.FK_Users_EmployeerRole" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Tovars_Manufacturer" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Order_OrderComplete" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Order_OrderStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Order_PickUpPoint" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Order_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Tovars_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Tovars_TovarCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="PetStoreModel.FK_Tovars_TovarTitle" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

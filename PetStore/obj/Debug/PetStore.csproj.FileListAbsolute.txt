@@ -1,0 +1,16 @@
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\bin\Debug\PetStore.exe.config
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\bin\Debug\PetStore.exe
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\bin\Debug\PetStore.pdb
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore.csproj.AssemblyReference.cache
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\MainWindow.g.cs
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\App.g.cs
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore_MarkupCompile.cache
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore_MarkupCompile.lref
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\App.baml
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\MainWindow.baml
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore.g.resources
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore.Properties.Resources.resources
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore.csproj.GenerateResource.cache
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore.exe
+C:\Users\Fedor\OneDrive\Рабочий стол\Application\PetStore\obj\Debug\PetStore.pdb
